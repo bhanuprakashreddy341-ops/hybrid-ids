@@ -1,0 +1,6 @@
+{
+  "name": "HeartGuard IDS - Healthcare Network Intrusion Detection",
+  "description": "Hybrid Machine Learning-Based Intrusion Detection System for Connected Healthcare Networks featuring multi-model ensemble detection, real-time telemetry, and device risk scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
